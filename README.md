@@ -60,7 +60,7 @@ Currently diving deeper into **AWS**, **PostgreSQL**, and refining my frontend c
 
 ## 🎨 Fun Fact About Me
 
-✨ I’m not just a developer — I’m a **classical dancer**, a **girl in tech**, and an **entrepreneur**. Always building, whether it's code or a brand! 💃👜👩‍💻
+✨ I’m not just a developer — I’m a **classical dancer**, a **girl who plays piano**, and an **entrepreneur**. Always building, whether it's code or a brand! 💃👜👩‍💻
 
 ---
 
