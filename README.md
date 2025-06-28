@@ -15,7 +15,7 @@
 
 ## ✨ About Me
 
-I am an Aspiring Software Engineer with a bachelor's degree in Computer Science and currently pursuing a Master's in Computer Applications. I thrive on solving complex problems and crafting innovative solutions using cutting-edge technologies.
+I am an Aspiring Software Engineer with a bachelor's degree in Computer Science and currently pursuing a Master's in Computer Applications from BVICAM. I thrive on solving complex problems and crafting innovative solutions using cutting-edge technologies.
 
 Currently diving deeper into **AWS**, **PostgreSQL**, and refining my frontend craft with **React** and **Next.js**.
 
